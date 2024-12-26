@@ -10,7 +10,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 const App = () => {
 
-    const url = "http://localhost:4000";
+    const url = "https://food-order-api-45923905449.asia-southeast2.run.app";
 
     return (
         <div>
